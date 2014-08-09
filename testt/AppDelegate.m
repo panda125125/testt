@@ -3,7 +3,7 @@
 //  testt
 //
 //  Created by 王 登鹏 on 14-8-10.
-//  Copyright (c) 2014年 王 登鹏xxxx. All rights reserved.
+//  Copyright (c) 2014年 王 登鹏xxxxyyyyy. All rights reserved.
 //
 
 #import "AppDelegate.h"
